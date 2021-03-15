@@ -29,3 +29,7 @@ Fausto Morales
 https://github.com/faustomorales/keras-facenet (FaceNet)
 
 MIT License
+
+## Contributors
+1. Rohan Sachan
+2. Tanay Gupta https://github.com/Tanay0101
